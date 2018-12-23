@@ -2,6 +2,7 @@ import numpy as np
 
 global word_list
 global guessing_list
+#maardananders
 
 
 def string_getter():
